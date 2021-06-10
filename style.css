@@ -1,8 +1,39 @@
 body{
-    background-color:#ede3e1;
-
+    background-color:#d9d9d9;
+    background-size: cover;
+    text-align: center;
 }
 
 #logo{
-    height: 150px;
+    height: 350px;
+    margin-left: 400px;
+    margin-top: -30px;
+}
+.blockquote-reverse{
+    margin-top: 70px;
+    font-size: 14px;
+    margin-bottom: 70px;
+}
+#myCarousel{
+    margin-top: -50px;
+   
+}
+.carousel-inner{
+    margin-top: 50px;
+}
+#tag1{
+    font-family:monospace;
+    font-variant: small-caps;
+    margin-bottom: 70px;
+}
+
+.myGrid img{
+    width: 250px;
+    margin: 50px auto;
+}
+.secondmenu{
+    margin-top: 260px;
+    font-variant: small-caps;
+    font-size: 20px;
+    left: 0px;
 }
